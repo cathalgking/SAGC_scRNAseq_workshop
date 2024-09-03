@@ -1,9 +1,10 @@
-Spatial Bioinformatics Workshop
+single-cell RNA-seq Bioinformatics Workshop
 ==============================
 
--	May 2024
+-	Thursday 2nd November 2023
 -	Room 4.50, The Braggs Building, The University of Adelaide, Victoria Drive Adelaide, SA 5005 Australia.
 -     Registration: https://tinyurl.com/SAGCSingleCell
+-     Led by Cathal King and Daniel Thomson
 
 
 This website contains all of the necessary content to carry out the 1 day SAGC scRNA-seq workshop.
